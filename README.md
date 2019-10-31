@@ -1,4 +1,4 @@
-#Machine Learning Projects
+# Machine Learning Projects
 
 Machine learning projects I have completed with datasets provided
 
